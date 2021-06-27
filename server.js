@@ -5,11 +5,11 @@ require('dotenv').config();
 const axios = require('axios');
 const mongoose = require('mongoose');
 const {
-  
   rentCar,
-  addCar ,
+  addCar,
   deleteCar,
-} = require('./controller/car.controller')
+  updateCar,
+} = require('./controller/car.controller');
 const carsData = require('./assets/cars.json');
 
 const PORT = process.env.PORT;
@@ -34,8 +34,9 @@ app.get('/cars', (req, res) => {
 });
 
 // localhost:8080/cars => rent car
-app.get ('/car' , rentCar)
-app.post ('/car', addCar)
-app.delete ('/car/:car_idx', deleteCar)
+app.get('/car', rentCar);
+app.post('/car', addCar);
+app.delete('/car/:car_idx', deleteCar);
+app.put('/car/:car_idx', updateCar);
 
 app.listen(PORT, console.log(`Listening on ${PORT}`)); // kick start the express server to work
