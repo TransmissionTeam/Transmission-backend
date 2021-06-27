@@ -4,7 +4,12 @@ const cors = require('cors');
 require('dotenv').config();
 const axios = require('axios');
 const mongoose = require('mongoose');
-
+const {
+  
+  rentCar,
+  addCar ,
+  deleteCar,
+} = require('./controller/car.controller')
 const carsData = require('./assets/cars.json');
 
 const PORT = process.env.PORT;
@@ -28,6 +33,9 @@ app.get('/cars', (req, res) => {
   res.json(carsData);
 });
 
-// localhost:8080/cars => add car
+// localhost:8080/cars => rent car
+app.get ('/car' , rentCar)
+app.post ('/car', addCar)
+app.delete ('/car/:car_idx', deleteCar)
 
 app.listen(PORT, console.log(`Listening on ${PORT}`)); // kick start the express server to work
