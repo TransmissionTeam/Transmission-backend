@@ -1,0 +1,322 @@
+[
+    {
+        "idcar": "01",
+        "name": "fusion2020",
+        "type": "Haybrid",
+        "company": "Ford",
+        "color": "Blue",
+        "img_url": "https://cars.usnews.com/static/images/Auto/izmo/i154319660/2020_ford_fusion_angularfront.jpg"
+    },
+    {
+        "idcar": "02",
+        "name": "fusion2021",
+        "type": "Haybrid",
+        "company": "Ford",
+        "color": "Darkgreen",
+        "img_url": "https://www.leasecosts.ca/sites/default/files/styles/car_thumb_big/public/2016-11/11206_st1280_116_0.jpg?itok=5pdnLG94"
+    },
+    {
+        "idcar": "03",
+        "name": "Cmax2015",
+        "type": "Haybrid",
+        "company": "Ford",
+        "color": "Silver",
+        "img_url": "https://picolio.auto123.com/15photo/ford/2015-ford-c-max-se-hybrid.png"
+    },
+    {
+        "idcar": "04",
+        "name": "Cmax2013",
+        "type": "Haybrid",
+        "company": "Ford",
+        "color": "Silver",
+        "img_url": "https://wildsau.ca/wp-content/uploads/2013/01/side-profile-studio-pro-.jpg"
+    },
+    {
+        "idcar": "05",
+        "name": "Cmax2021",
+        "type": "Haybrid",
+        "company": "Ford",
+        "color": "Green",
+        "img_url": "https://www.2021fords.com/wp-content/uploads/2021/01/2021-Ford-C-Max-Exterior.jpg"
+    },
+    {
+        "idcar": "06",
+        "name": "sonata2020",
+        "type": "Haybrid",
+        "company": "Hyundai",
+        "color": "White",
+        "img_url": "https://www.ccarprice.com/products/Hyundai-Sonata-Hybrid-SEL-2.jpg"
+    },
+    {
+        "idcar": "07",
+        "name": "Venza",
+        "type": "Haybrid",
+        "company": "Toyota",
+        "color": "Darkgrey",
+        "img_url": "https://cimg3.ibsrv.net/ibimg/hgm/1920x1080-1/100/746/2021-toyota-venza_100746851.jpg"
+    },
+    {
+        "idcar": "08",
+        "name": "Kona",
+        "type": "Haybrid",
+        "company": "Hyundai",
+        "color": "Lightblue",
+        "img_url": "https://media.drivingelectric.com/image/private/s--wbhfQia7--/v1602852943/drivingelectric/2020-09/new_kona_2.jpg"
+    },
+    {
+        "idcar": "09",
+        "name": "prius prime 2021",
+        "type": "Haybrid",
+        "company": "ToyoTa",
+        "color": "turquoise",
+        "img_url": "https://media.drivingelectric.com/image/private/s--wbhfQia7--/v1602852943/drivingelectric/2020-09/new_kona_2.jpg"
+    },
+    {
+        "idcar": "10",
+        "name": "honda cr-v 2021",
+        "type": "Haybrid",
+        "company": "Honda",
+        "color": "Silver",
+        "img_url": "https://images.dealer.com/ddc/vehicles/2021/Honda/CR-V/SUV/trim_EX_35f4d0/color/Lunar%20Silver%20Metallic-SI-160%2C160%2C160-640-en_US.jpg"
+    },
+    {
+        "idcar": "11",
+        "name": "BMW X5 xdrive",
+        "type": "Haybrid",
+        "company": "BMW",
+        "color": "white",
+        "img_url": "https://www.ccarprice.com/products/BMW_X5_xDrive45e_Plug-In_Hybrid_2021_Price.jpg"
+    },
+    {
+        "idcar": "12",
+        "name": "BMW plug-in Hybrid",
+        "type": "Haybrid",
+        "company": "BMW",
+        "color": "white",
+        "img_url": "https://www.bmw.co.uk/content/dam/bmw/marketGB/bmw_co_uk/bmw-cars/phev/330e-saloon-modelcard-890x501.jpg"
+    },
+    {
+        "idcar": "13",
+        "name": "BMW 5S plug-in Hybrid",
+        "type": "Haybrid",
+        "company": "BMW",
+        "color": "Royal blue",
+        "img_url": "https://i.i-sgcm.com/new_cars/cars/12173/12173_m.jpg"
+    },
+    {
+        "idcar": "14",
+        "name": "BMW 530e",
+        "type": "Haybrid",
+        "company": "BMW",
+        "color": "dark green",
+        "img_url": "https://www.ccarprice.com/products/BMW-530e-Plug-In-Hybrid-2021.jpg"
+    },
+    {
+        "idcar": "15",
+        "name": "C200",
+        "type": "Haybrid",
+        "company": "Mercedes",
+        "color": "Silver",
+        "img_url": "https://www.jordantimes.com/sites/default/files/styles/news_inner/public/cara_237.jpg?itok=sRYcbPPA"
+    },
+    {
+        "idcar": "16",
+        "name": "GLE 350",
+        "type": "Haybrid",
+        "company": "Mercedes",
+        "color": "dark green",
+        "img_url": "https://i.ytimg.com/vi/yDDWSoWRJ5E/maxresdefault.jpg"
+    },
+    {
+        "idcar": "17",
+        "name": "A250e",
+        "type": "Haybrid",
+        "company": "Mercedes",
+        "color": "Royal blue",
+        "img_url": "https://i.ytimg.com/vi/yDDWSoWRJ5E/maxresdefault.jpg"
+    },
+    {
+        "idcar": "18",
+        "name": "S-class",
+        "type": "Haybrid",
+        "company": "Mercedes",
+        "color": "Dark brown",
+        "img_url": "https://autosportmotor.com/wp-content/uploads/2020/09/2021-mercedes-s-class-hybrid-per.jpg"
+    },
+    {
+        "idcar": "19",
+        "name": "Tiguan",
+        "type": "Haybrid",
+        "company": "VW",
+        "color": "white",
+        "img_url": "https://cdn1.buyacar.co.uk/sites/buyacar/files/styles/w860/public/vw-tiguan-ehybrid-1.jpg?itok=h4UxJe_A"
+    },
+    {
+        "idcar": "20",
+        "name": "Arteon",
+        "type": "Haybrid",
+        "company": "VW",
+        "color": "Gold",
+        "img_url": "https://cdn.motor1.com/images/mgl/6J4zk/s1/2019-vw-arteon.jpg"
+    },
+    {
+        "idcar": "21",
+        "name": "Model s",
+        "type": "Electric",
+        "company": "Tesla",
+        "color": "Red",
+        "img_url": "https://images.fineartamerica.com/images-medium-large-5/tesla-model-s-red-luxury-electric-car-oleksiy-maksymenko.jpg"
+    },
+    {
+        "idcar": "22",
+        "name": "Model 3",
+        "type": "Electric",
+        "company": "Tesla",
+        "color": "Black",
+        "img_url": "https://imagecdn.leasingoptions.co.uk/fit-in/750x500/image/vehicles/pix_png2048/tesla/model3/1/4sedan%20performance/tesla_19model3sd1b_lowaggressive.png"
+    },
+    {
+        "idcar": "23",
+        "name": "Model X",
+        "type": "Electric",
+        "company": "Tesla",
+        "color": "Blue",
+        "img_url": "https://carsguide-res.cloudinary.com/image/upload/f_auto%2Cfl_lossy%2Cq_auto%2Ct_default/v1/editorial/2021-Tesla-Model-X-Performance-SUV-blue-1001x565-1.jpg"
+    },
+    {
+        "idcar": "24",
+        "name": "Model Y",
+        "type": "Electric",
+        "company": "Tesla",
+        "color": "White",
+        "img_url": "https://www.ccarprice.com/products/Tesla_Model_Y_Performance_2021.jpg"
+    },
+    {
+        "idcar": "25",
+        "name": "Nismo2018",
+        "type": "Electric",
+        "company": "Nissan",
+        "color": "white",
+        "img_url": "https://cdn.images.express.co.uk/img/dynamic/24/590x/Nissan-Leaf-Nismo-991210.jpg?r=1532095348748"
+    },
+    {
+        "idcar": "26",
+        "name": "Leaf 2021",
+        "type": "Electric",
+        "company": "Nissan",
+        "color": "Red",
+        "img_url": "https://www.nissanusa.com/content/dam/Nissan/us/vehicles/leaf/2021/overview/nissan-leaf-scarlet-ember-tintcoat.png"
+    },
+    {
+        "idcar": "27",
+        "name": "EQS",
+        "type": "Electric",
+        "company": "Mercedes",
+        "color": "silver&black",
+        "img_url": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2021%2F04%2Fmercedes-benz-eqs-first-all-electric-sedan-official-release-000.jpg?w=960&cbr=1&q=90&fit=max"
+    },
+    {
+        "idcar": "28",
+        "name": "EQS-SUV",
+        "type": "Electric",
+        "company": "Mercedes",
+        "color": "matt black",
+        "img_url": "https://allvehiclecontracts.co.uk/Images/180648/600.jpg"
+    },
+    {
+        "idcar": "29",
+        "name": "Sian",
+        "type": "Hybrid",
+        "company": "lamborghini",
+        "color": "Dark green",
+        "img_url": "https://www.automobile-magazine.fr/asset/cms/840x394/166018/config/114851/derivee-de-laventador-cette-lamborghini-sian-sen-distingue-par-sa-carrosserie-comme-sa-technologie.jpg"
+    },
+    {
+        "idcar": "30",
+        "name": "Tesla pickup",
+        "type": "Electric",
+        "company": "Tesla",
+        "color": "silver",
+        "img_url": "https://2021electriccars.com/wp-content/uploads/2019/11/2021-Tesla-Pickup-Truck-Is-Coming.jpg"
+    },
+    {
+        "idcar": "31",
+        "name": "IONIC",
+        "type": "Electric",
+        "company": "Hyundai",
+        "color": "silver",
+        "img_url": "https://cleantechnica.com/files/2020/12/hyundai-45-ev-concept-exterior-04-1920px-brighter.jpg"
+    },
+    {
+        "idcar": "32",
+        "name": "BMW iVision",
+        "type": "Electric",
+        "company": "BMW",
+        "color": "Silver",
+        "img_url": "https://www.cnet.com/a/img/HT3HNsGkxOP9ZUotQeyKhq_ttOA=/1200x675/2017/09/13/f8434f64-395e-4514-b187-6fd9e2d5c587/bmw-i-vision-dynamics-article-ogi.jpg"
+    },
+    {
+        "idcar": "33",
+        "name": "Porsche Taycan",
+        "type": "Electric",
+        "company": "Porsche",
+        "color": "white",
+        "img_url": "https://files.porsche.com/filestore/image/multimedia/none/j1-taycan-tu-s-modelimage-sideshot/model/60c967a4-ac79-11e9-80c4-005056bbdc38/porsche-model.png"
+    },
+    {
+        "idcar": "34",
+        "name": "BMW i3s",
+        "type": "Electric",
+        "company": "BMW",
+        "color": "",
+        "img_url": "https://cars.usnews.com/static/images/Auto/izmo/i6511875/2017_bmw_i3_angularfront.jpg"
+    },
+    {
+        "idcar": "35",
+        "name": "Audi e-tron",
+        "type": "Electric",
+        "company": "Audi",
+        "color": "Blue",
+        "img_url": "https://imgd.aeplcdn.com/1200x900/cw/ec/39048/Audi-etron-Exterior-170076.jpg?wm=0&q=85"
+    },
+    {
+        "idcar": "36",
+        "name": "Jaguar I-PACE",
+        "type": "Electric",
+        "company": "Jaguar",
+        "color": "Dark green",
+        "img_url": "https://cdn.motor1.com/images/mgl/A8Yj9/s3/lister-suv-e-concept-jaguar-i-pace.jpg"
+    },
+    {
+        "idcar": "37",
+        "name": "Aston Martin Rapide E",
+        "type": "Electric",
+        "company": "Aston Martin",
+        "color": "Ivory",
+        "img_url": "https://motoramaze.com/wp-content/uploads/2020/07/Aston-Martin-Rapide-E-bb.png"
+    },
+    {
+        "idcar": "38",
+        "name": "Range Rover Sport PHEV",
+        "type": "Electric",
+        "company": "Range Rover",
+        "color": "Silver",
+        "img_url": "https://preview.free3d.com/img/2017/10/1703922639354988065/znxbil9d-900.jpg"
+    },
+    {
+        "idcar": "39",
+        "name": "Volvo XC40 Electric",
+        "type": "Electric",
+        "company": "Volvo",
+        "color": "Black",
+        "img_url": "https://cdn.imagin.studio/getImage?make=volvo&modelFamily=xc40&modelRange=xc40&modelYear=2019&modelVariant=od&bodySize=5&transmission=0&paintid=019&paintDescription=blackq&angle=01&zoomtype=relative&width=800&filetype=png&tailoring=leaseplan&customer=lpl&powerTrain=0&trim=0&interiorid=0&rimid=000001&steering=lhd"
+    },
+    {
+        "idcar": "40",
+        "name": "Polestar 2",
+        "type": "Electric",
+        "company": "Polestar",
+        "color": "Black",
+        "img_url": "https://cas.polestar.com/image/dynamic/MY22_2108/534/summary-v1/EC/01900/R60000/R14B/JT01/BD02/EV01/JB0A/_/_/_/default.jpg?market=us&angle=0"
+    }
+]
