@@ -22,13 +22,14 @@ const addCar = (req, res) => {
     if (error) {
       res.send(error);
     } else {
+      console.log(user.cars);
       user.cars.push({
-        name: name,
-        type: type,
-        company: company,
-        color: color,
-        model: model,
-        img_url: img_url,
+        name,
+        type,
+        company,
+        color,
+        model,
+        img_url,
       });
       user.save();
       res.send(user);
@@ -57,7 +58,7 @@ const updateCar = (req, res) => {
     if (error) {
       res.send(error);
     } else {
-      userData.cars.splice(bookIndex, 1, {
+      userData.cars.splice(carIndex, 1, {
         name,
         type,
         company,
