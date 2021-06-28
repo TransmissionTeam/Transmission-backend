@@ -5,7 +5,15 @@
         "company":"BMW",
         "color":"Red",
         "model":"2014",
-        "imgurl":"https://e7.pngegg.com/pngimages/872/879/png-clipart-orange-car-illustration-compact-car-motors-corporation-orange-car-car-accident-van-thumbnail.png"
+        "img_url":"https://e7.pngegg.com/pngimages/872/879/png-clipart-orange-car-illustration-compact-car-motors-corporation-orange-car-car-accident-van-thumbnail.png"
+    },
+    {
+        "name": "Fujin",
+        "type":"Hybrid",
+        "company":"BMW",
+        "color":"Red",
+        "model":"2014",
+        "img_url":"https://e7.pngegg.com/pngimages/872/879/png-clipart-orange-car-illustration-compact-car-motors-corporation-orange-car-car-accident-van-thumbnail.png"
     }
 
 ]

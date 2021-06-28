@@ -11,13 +11,22 @@ const userModel = mongoose.model('user', userSchema);
 
 const seedUserData = () => {
   const newUser = new userModel({
-    email: process.env.EMAIL,
-    cars: [],
+    email: 'nawalahmad.bme@gmail.com',
+    cars: [
+      {
+        name: 'user',
+        type: 'user',
+        company: 'user',
+        color: 'user',
+        model: 'user',
+        img_url: 'user',
+      },
+    ],
   });
   newUser.save();
 };
 
-seedUserData();
+// seedUserData();
 
 module.exports = {
   userModel,
