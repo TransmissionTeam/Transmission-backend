@@ -17,18 +17,18 @@ const addCar = (req, res) => {
   console.log(req);
 
   // const { email } = req.query;
-  const { email, name, type, company, color, model, img_url } = req.body;
+  const { email, idcar , name, type, company, color, img_url } = req.body;
   userModel.findOne({ email: email }, (error, user) => {
     if (error) {
       res.send(error);
     } else {
       console.log(user.cars);
       user.cars.push({
+        idcar,
         name,
         type,
         company,
         color,
-        model,
         img_url,
       });
       user.save();
@@ -53,17 +53,17 @@ const deleteCar = (req, res) => {
 
 const updateCar = (req, res) => {
   const carIndex = req.params.car_idx;
-  const { email, name, type, company, color, model, img_url } = req.body;
+  const { email, idcar , name, type, company, color, img_url } = req.body;
   userModel.findOne({ email: email }, (error, userData) => {
     if (error) {
       res.send(error);
     } else {
       userData.cars.splice(carIndex, 1, {
+        idcar,
         name,
         type,
         company,
         color,
-        model,
         img_url,
       });
       userData.save();
