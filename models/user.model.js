@@ -21,6 +21,14 @@ const seedUserData = () => {
         model: 'user',
         img_url: 'user',
       },
+      {
+        name: 'user',
+        type: 'user',
+        company: 'user',
+        color: 'user',
+        model: 'user',
+        img_url: 'user',
+      },
     ],
   });
   newUser.save();

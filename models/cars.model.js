@@ -8,7 +8,7 @@ const carSchema = new mongoose.Schema({
   company: { type: String },
   color: { type: String },
   model: { type: String },
-  imgurl: { type: String },
+  img_url: { type: String },
 });
 
 module.export = carSchema;
