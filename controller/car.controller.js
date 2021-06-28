@@ -14,8 +14,10 @@ const rentCar = (req, res) => {
 };
 
 const addCar = (req, res) => {
-  const { email } = req.query;
-  const { name, type, company, color, model, img_url } = req.body;
+  console.log(req);
+
+  // const { email } = req.query;
+  const { email, name, type, company, color, model, img_url } = req.body;
   userModel.findOne({ email: email }, (error, user) => {
     if (error) {
       res.send(error);
@@ -29,7 +31,7 @@ const addCar = (req, res) => {
         img_url: img_url,
       });
       user.save();
-      res.json(user);
+      res.send(user);
     }
   });
 };
