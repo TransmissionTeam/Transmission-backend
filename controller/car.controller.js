@@ -17,7 +17,7 @@ const addCar = (req, res) => {
   console.log(req);
 
   // const { email } = req.query;
-  const { email, idcar , name, type, company, color, img_url } = req.body;
+  const { email, idcar, name, type, company, color, img_url, discription, rentalDate, returnDate } = req.body;
   userModel.findOne({ email: email }, (error, user) => {
     if (error) {
       res.send(error);
@@ -30,6 +30,9 @@ const addCar = (req, res) => {
         company,
         color,
         img_url,
+        discription,
+        rentalDate,
+        returnDate
       });
       user.save();
       res.send(user);
@@ -53,7 +56,7 @@ const deleteCar = (req, res) => {
 
 const updateCar = (req, res) => {
   const carIndex = req.params.car_idx;
-  const { email, idcar , name, type, company, color, img_url } = req.body;
+  const { email, idcar, name, type, company, color, img_url, discription, rentalDate, returnDate } = req.body;
   userModel.findOne({ email: email }, (error, userData) => {
     if (error) {
       res.send(error);
@@ -65,6 +68,9 @@ const updateCar = (req, res) => {
         company,
         color,
         img_url,
+        discription,
+        rentalDate,
+        returnDate
       });
       userData.save();
       res.send(userData);

@@ -9,6 +9,9 @@ const carSchema = new mongoose.Schema({
   company: { type: String },
   color: { type: String },
   img_url: { type: String },
+  discription: { type: String },
+  rentalDate: { type: String },
+  returnDate: { type: String },
 });
 
 module.export = carSchema;
