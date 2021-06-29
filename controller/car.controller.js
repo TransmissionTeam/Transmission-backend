@@ -22,7 +22,7 @@ const addCar = (req, res) => {
     if (error) {
       res.send(error);
     } else {
-      console.log(user.cars);
+      // console.log(user.cars);
       user.cars.push({
         idcar,
         name,

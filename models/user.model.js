@@ -2,6 +2,8 @@
 const mongoose = require('mongoose');
 const carSchema = require('./cars.model');
 
+const EMAIL = process.env.EMAIL;
+
 const userSchema = new mongoose.Schema({
   email: { type: String },
   cars: [carSchema],
@@ -11,7 +13,7 @@ const userModel = mongoose.model('user', userSchema);
 
 const seedUserData = () => {
   const newUser = new userModel({
-    email: 'yousef.y.jalboush@gmail.com',
+    email: EMAIL,
     cars: [
       {
         idcar: '98',
