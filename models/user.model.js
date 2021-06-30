@@ -26,17 +26,17 @@ const seedUserData = () => {
         rentalDate:  '2021-6-19' ,
         returnDate: '2021-6-30' ,
       },
-      // {
-      //   idcar: '99',
-      //   name: 'fusion2021',
-      //   type: 'Haybrid',
-      //   company: 'Ford',
-      //   color: 'Darkgreen',
-      //   img_url: 'https://www.leasecosts.ca/sites/default/files/styles/car_thumb_big/public/2016-11/11206_st1280_116_0.jpg?itok=5pdnLG94',
-      //   discription: 'test' ,
-      //   rentalDate:  '2021-6-19' ,
-      //   returnDate: '2021-6-30' ,
-      // },
+      {
+        idcar: '99',
+        name: 'fusion2021',
+        type: 'Haybrid',
+        company: 'Ford',
+        color: 'Darkgreen',
+        img_url: 'https://www.leasecosts.ca/sites/default/files/styles/car_thumb_big/public/2016-11/11206_st1280_116_0.jpg?itok=5pdnLG94',
+        discription: 'test' ,
+        rentalDate:  '2021-6-19' ,
+        returnDate: '2021-6-30' ,
+      },
     ],
   });
   newUser.save();

@@ -10,7 +10,7 @@ const {
   updateCar,
 } = require('./controller/car.controller');
 
-// const {seedUserData} = require('./models/user.model');
+// const { seedUserData } = require('./models/user.model');
 
 const cors = require('cors');
 
@@ -20,12 +20,16 @@ const carsData = require('./assets/cars.json');
 
 app.use(cors());
 
-app.use(express.json()); 
+app.use(express.json());
 
-mongoose.connect('mongodb://localhost:27017/myCar', {
-  useNewUrlParser: true,
-  useUnifiedTopology: true
-});
+// mongoose.connect('mongodb://localhost:27017/myCar', {
+//   useNewUrlParser: true,
+//   useUnifiedTopology: true
+// });
+
+mongoose.connect(process.env.MONGO_URL,
+  { useNewUrlParser: true, useUnifiedTopology: true }
+);
 
 // a server endpoint
 app.get(
@@ -35,6 +39,7 @@ app.get(
     res.send('Your API is working'); // our endpoint function response
   }
 );
+
 
 // seedUserData();
 

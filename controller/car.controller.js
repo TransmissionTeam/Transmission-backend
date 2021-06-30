@@ -2,7 +2,7 @@
 const { userModel } = require('../models/user.model');
 
 const rentCar = (req, res) => {
-  console.log(req.query);
+  // console.log(req.query);
   const { email } = req.query;
   userModel.findOne({ email: email }, (error, user) => {
     if (error) {
@@ -14,7 +14,7 @@ const rentCar = (req, res) => {
 };
 
 const addCar = (req, res) => {
-  console.log(req);
+  // console.log(req);
 
   // const { email } = req.query;
   const { email, idcar, name, type, company, color, img_url, discription, rentalDate, returnDate } = req.body;
