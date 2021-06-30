@@ -2,7 +2,7 @@
     {
         "idcar": "01",
         "name": "fusion2020",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "Ford",
         "color": "Blue",
         "img_url": "https://cars.usnews.com/static/images/Auto/izmo/i154319660/2020_ford_fusion_angularfront.jpg"
@@ -10,7 +10,7 @@
     {
         "idcar": "02",
         "name": "fusion2021",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "Ford",
         "color": "Darkgreen",
         "img_url": "https://www.leasecosts.ca/sites/default/files/styles/car_thumb_big/public/2016-11/11206_st1280_116_0.jpg?itok=5pdnLG94"
@@ -18,7 +18,7 @@
     {
         "idcar": "03",
         "name": "Cmax2015",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "Ford",
         "color": "Silver",
         "img_url": "https://picolio.auto123.com/15photo/ford/2015-ford-c-max-se-hybrid.png"
@@ -26,7 +26,7 @@
     {
         "idcar": "04",
         "name": "Cmax2013",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "Ford",
         "color": "Silver",
         "img_url": "https://wildsau.ca/wp-content/uploads/2013/01/side-profile-studio-pro-.jpg"
@@ -34,7 +34,7 @@
     {
         "idcar": "05",
         "name": "Cmax2021",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "Ford",
         "color": "Green",
         "img_url": "https://www.2021fords.com/wp-content/uploads/2021/01/2021-Ford-C-Max-Exterior.jpg"
@@ -42,7 +42,7 @@
     {
         "idcar": "06",
         "name": "sonata2020",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "Hyundai",
         "color": "White",
         "img_url": "https://www.ccarprice.com/products/Hyundai-Sonata-Hybrid-SEL-2.jpg"
@@ -50,7 +50,7 @@
     {
         "idcar": "07",
         "name": "Venza",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "Toyota",
         "color": "Darkgrey",
         "img_url": "https://cimg3.ibsrv.net/ibimg/hgm/1920x1080-1/100/746/2021-toyota-venza_100746851.jpg"
@@ -58,7 +58,7 @@
     {
         "idcar": "08",
         "name": "Kona",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "Hyundai",
         "color": "Lightblue",
         "img_url": "https://media.drivingelectric.com/image/private/s--wbhfQia7--/v1602852943/drivingelectric/2020-09/new_kona_2.jpg"
@@ -66,7 +66,7 @@
     {
         "idcar": "09",
         "name": "prius prime 2021",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "ToyoTa",
         "color": "turquoise",
         "img_url": "https://media.drivingelectric.com/image/private/s--wbhfQia7--/v1602852943/drivingelectric/2020-09/new_kona_2.jpg"
@@ -74,7 +74,7 @@
     {
         "idcar": "10",
         "name": "honda cr-v 2021",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "Honda",
         "color": "Silver",
         "img_url": "https://images.dealer.com/ddc/vehicles/2021/Honda/CR-V/SUV/trim_EX_35f4d0/color/Lunar%20Silver%20Metallic-SI-160%2C160%2C160-640-en_US.jpg"
@@ -82,7 +82,7 @@
     {
         "idcar": "11",
         "name": "BMW X5 xdrive",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "BMW",
         "color": "white",
         "img_url": "https://www.ccarprice.com/products/BMW_X5_xDrive45e_Plug-In_Hybrid_2021_Price.jpg"
@@ -90,7 +90,7 @@
     {
         "idcar": "12",
         "name": "BMW plug-in Hybrid",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "BMW",
         "color": "white",
         "img_url": "https://www.bmw.co.uk/content/dam/bmw/marketGB/bmw_co_uk/bmw-cars/phev/330e-saloon-modelcard-890x501.jpg"
@@ -98,7 +98,7 @@
     {
         "idcar": "13",
         "name": "BMW 5S plug-in Hybrid",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "BMW",
         "color": "Royal blue",
         "img_url": "https://i.i-sgcm.com/new_cars/cars/12173/12173_m.jpg"
@@ -106,7 +106,7 @@
     {
         "idcar": "14",
         "name": "BMW 530e",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "BMW",
         "color": "dark green",
         "img_url": "https://www.ccarprice.com/products/BMW-530e-Plug-In-Hybrid-2021.jpg"
@@ -114,7 +114,7 @@
     {
         "idcar": "15",
         "name": "C200",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "Mercedes",
         "color": "Silver",
         "img_url": "https://www.jordantimes.com/sites/default/files/styles/news_inner/public/cara_237.jpg?itok=sRYcbPPA"
@@ -122,7 +122,7 @@
     {
         "idcar": "16",
         "name": "GLE 350",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "Mercedes",
         "color": "dark green",
         "img_url": "https://i.ytimg.com/vi/yDDWSoWRJ5E/maxresdefault.jpg"
@@ -130,7 +130,7 @@
     {
         "idcar": "17",
         "name": "A250e",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "Mercedes",
         "color": "Royal blue",
         "img_url": "https://i.ytimg.com/vi/yDDWSoWRJ5E/maxresdefault.jpg"
@@ -138,7 +138,7 @@
     {
         "idcar": "18",
         "name": "S-class",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "Mercedes",
         "color": "Dark brown",
         "img_url": "https://autosportmotor.com/wp-content/uploads/2020/09/2021-mercedes-s-class-hybrid-per.jpg"
@@ -146,7 +146,7 @@
     {
         "idcar": "19",
         "name": "Tiguan",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "VW",
         "color": "white",
         "img_url": "https://cdn1.buyacar.co.uk/sites/buyacar/files/styles/w860/public/vw-tiguan-ehybrid-1.jpg?itok=h4UxJe_A"
@@ -154,7 +154,7 @@
     {
         "idcar": "20",
         "name": "Arteon",
-        "type": "Haybrid",
+        "type": "Hybrid",
         "company": "VW",
         "color": "Gold",
         "img_url": "https://cdn.motor1.com/images/mgl/6J4zk/s1/2019-vw-arteon.jpg"
